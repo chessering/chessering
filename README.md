@@ -47,5 +47,5 @@ KyungHee Univ Department of Computer Engineering<br>
  <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> </a>
 </p><br>
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yi9353)](https://solved.ac/yi9353/)
 
