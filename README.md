@@ -4,7 +4,7 @@
 
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="https://www.instagram.com/merronna_k21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/dlthdwp_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>yi9353@naver.com<br>yi9353@khu.ac.kr
 </p>
